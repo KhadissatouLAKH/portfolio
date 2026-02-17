@@ -13,7 +13,7 @@ with st.sidebar:
     st.write("* Adresse 🏠 : Dieuppeul Derklé")
     
     st.header("Education 🎓")
-    st.write("* BTS en Géomatique 2026/2027")
+    st.write("* BTS en Géomatique 2025/2026")
     st.write("* Bac L2  2024/2025")
     
 
