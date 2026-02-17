@@ -7,7 +7,6 @@ st.write("Technicienne supérieure en géomatique, passionnée par l'exploitatio
 
 
 with st.sidebar:
-    st.image("hijab.jpg" , width = 100)
     st.header("Coordonnées")
     st.write("* Téléphone 📞: +221 78 917 10 57")
     st.write("* Email 📧: diatoulakh4@email.com")
