@@ -17,7 +17,7 @@ with st.sidebar:
     st.write("* BTS en Géomatique 2026/2027")
     st.write("* Bac L2  2024/2025")
     
-st.divider()
+
 
 st.header("Compétences 🚀")
 col1, col2 = st.columns(2)
@@ -33,15 +33,14 @@ with col2:
     st.write("- **Données :** Traitement CSV, TXT, KML")
     st.write("- **Terrain :** Numérisation & Cartographie")
 
-st.divider()
+
 
 st.header("Projet Académiques📂 ")
 st.subheader("Carte thématique de la région de Saint-Louis sur ArcGIS")
 st.image("Carte.jpg", width = 50)  
 
 st.subheader("Cartographie numérique du quartier [Dieuppeul Derkle]")
-st.write("""
-**Objectif :** Créer une base de données géographique.
+st.write("""**Objectif :** Créer une base de données géographique.
 - **Numérisation structurée :** Création de couches vectorielles (points, lignes, polygones) sous QGIS.
-- **Topologie :** Respect des règles de saisie pour assurer la précision des données.
-""")
+- **Topologie :** Respect des règles de saisie pour assurer la précision des données.""")
+
