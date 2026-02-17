@@ -36,7 +36,7 @@ with col2:
 
 st.header("Projet Académiques📂 ")
 st.subheader("Carte thématique de la région de Saint-Louis sur ArcGIS")
-st.image("Carte.jpg", width = 50)  
+
 
 st.subheader("Cartographie numérique du quartier [Dieuppeul Derkle]")
 st.write("""**Objectif :** Créer une base de données géographique.
