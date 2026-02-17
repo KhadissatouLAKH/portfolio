@@ -21,13 +21,13 @@ with st.sidebar:
 st.header("Compétences 🚀")
 col1, col2 = st.columns(2)
 with col1:
-    st.subheader("Logiciels & Outils informatiques")
+    st.subheader("Logiciels & Outils informatiques :")
     st.write("- **SIG :** QGIS, ArcGIS")
     st.write("- **2D & 3D :** AutoCAD, **Sketchup**")
     st.write("- **Bureautique :** Google Workspace")
 
 with col2:
-    st.subheader("Missions techniques")
+    st.subheader("Missions techniques :")
     st.write("- **Code :** Programmation Python")
     st.write("- **Données :** Traitement CSV, TXT, KML")
     st.write("- **Terrain :** Numérisation & Cartographie")
@@ -37,6 +37,8 @@ with col2:
 st.header("Projet Académiques📂 ")
 st.write("""
 - Réalisation d'une carte thématique de la région de Saint-Louis sur ArcGIS en groupe.
+
+- Collecte de données topographique a Massalikul et sur la commune de Colobane, Fass, et Gueule Tapée en équipe.
 
 - Cartographie numérique du quartier [Dieuppeul Derkle] sur Qgis.
 
