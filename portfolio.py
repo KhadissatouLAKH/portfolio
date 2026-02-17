@@ -38,7 +38,7 @@ st.header("Projet Académiques📂 ")
 st.write("Réalisation d'une carte thématique de la région de Saint-Louis sur ArcGIS")
 st.write("Cartographie numérique du quartier [Dieuppeul Derkle] sur Qgis")
 st.write("""
-- **Création d'une base de données géographique sur Qgis et ArcMap.
+- Création d'une base de données géographique sur Qgis et ArcMap.
 - **Numérisation structurée :** Création de couches vectorielles (points, lignes, polygones) sous QGIS.
 - **Topologie :** Respect des règles de saisie pour assurer la précision des données.
 """)
