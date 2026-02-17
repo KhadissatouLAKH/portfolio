@@ -35,9 +35,10 @@ with col2:
 
 
 st.header("Projet Académiques📂 ")
-st.write("Carte thématique de la région de Saint-Louis sur ArcGIS")
+st.write("Réalisation d'une carte thématique de la région de Saint-Louis sur ArcGIS")
 st.write("Cartographie numérique du quartier [Dieuppeul Derkle]")
-st.write("""**Objectif :** Créer une base de données géographique.
+st.write("""**
+Objectif:** Créer une base de données géographique.
 - **Numérisation structurée :** Création de couches vectorielles (points, lignes, polygones) sous QGIS.
-- **Topologie :** Respect des règles de saisie pour assurer la précision des données.""")
-
+- **Topologie :** Respect des règles de saisie pour assurer la précision des données.
+""")
